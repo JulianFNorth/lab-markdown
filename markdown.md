@@ -1,4 +1,5 @@
-#Julian Fullmer – Dev Log (July 2, 2025)
+# Julian Fullmer – Dev Log (July 2, 2025)
+#log #ai #reflection
 
 ## What I Learned Today
 
@@ -7,14 +8,14 @@
 2. I learned how to structure markdown (*md*) files, with headings and other syntax.
 ### Additional Insight
 
-- AI models are both amazing and scary (==stochastic==).
+- AI models are both *amazing* and *scary* (==stochastic==).
     - **Because of this, I’ll try to stay cautious of AI, but also embrace its potential.**
 - Something I found funny was how base LLaMA models can be confidently wrong — they act aloof sometimes.
 
 ## Lab Reflection
 
 > I was really *challenged by trying to understand the differences between tokenization and embedding*.  
-> But after reviewing how Token IDs get translated to vectors, I closed the gap in my knowledge.
+> **But** after reviewing how Token IDs get translated to vectors, I closed the gap in my knowledge.
 
 ## Code Snippet
 ```
@@ -34,5 +35,8 @@ model.fit(X_train, y_train)
 - [Markdown Guide](https://www.markdownguide.org/basic-syntax/)
 - [CSV File Handling in Python](https://realpython.com/python-csv/)
 
----
+## Image
 
+![Vibe Coding Image](Vibecoding.png)
+
+---
